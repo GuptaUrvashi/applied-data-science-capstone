@@ -1,3 +1,3 @@
-# testrepo
+# applied-data-science-capstone
 
-Its a markdown file in this repository. 
+Lab work done as part of capstone
